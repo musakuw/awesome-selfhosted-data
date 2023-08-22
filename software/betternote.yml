@@ -1,0 +1,15 @@
+﻿name: "BetterNote"
+source_code_url: "https://github.com/0x25CBFC4F/betternote"
+description: "Simple and secure one-time note sharing service."
+licenses:
+  - MIT
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - .NET Core
+  - Javascript
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - Pastebins
+depends_3rdparty: no
+demo_url: "https://voids.site/demos/betternote/"
+ 
